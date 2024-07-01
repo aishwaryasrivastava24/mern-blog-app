@@ -1,5 +1,6 @@
 <H1 align ="center" > MERN BLOG  </h1>
-## PROJECT MADE BY AISHWARYA SRIVASTAVA
+
+## Project Made By AISHWARYA SRIVASTAVA
 
 
 
